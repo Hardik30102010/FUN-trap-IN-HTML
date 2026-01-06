@@ -1,2 +1,16 @@
-# FUN-trap-IN-HTML
-It is like a trap , You need to come of of it ( come on starting screen) but you can't :–)
+<html>
+  <head>
+    <title> </title>
+    <style>
+      
+    </style>
+  </head>
+  <body>
+    <div>
+      
+    </div>
+    <script>
+      
+    </script>
+  </body>
+</html>
